@@ -1,3 +1,9 @@
+> **Note:** This repository is built on top of [Voicebox](https://github.com/jamiepine/voicebox)
+> by Jamie Pine (MIT licensed — see LICENSE), used here to build a Hindi
+> voice-cloning demo. See [DEMO_NOTES.md](./DEMO_NOTES.md) for what was
+> specifically built, configured, and debugged for this project.
+
+---
 <p align="center">
   <img src=".github/assets/icon-dark.webp" alt="Voicebox" width="120" height="120" />
 </p>
